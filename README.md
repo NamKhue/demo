@@ -15,3 +15,6 @@ git commit -m "message ..."
 git push 
 
 # open
+
+# describe smt
+Hi moi nguoi
